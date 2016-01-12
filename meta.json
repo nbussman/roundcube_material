@@ -1,0 +1,8 @@
+{
+    "name": "Material Roundcube",
+    "author": "Nils Bussmann",
+    "url": "nilsbussmann.de",
+    "license": "not sure",
+    "license-url": "later...",
+    "extends": "larry"
+}
